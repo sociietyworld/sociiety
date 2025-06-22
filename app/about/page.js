@@ -28,7 +28,7 @@ export default function About() {
         </p>
 
         <p style={{ fontSize: '1.1rem', marginBottom: '2rem', lineHeight: '1.6' }}>
-          This isn't just a brand. It&apos;s a silent signal of who belongs. Powered by S-Class verification, creative exclusivity, and a future-forward ethos — SOCIIETY is building a private world you can wear.
+          This isn&apos;t just a brand. It&apos;s a silent signal of who belongs. Powered by S-Class verification, creative exclusivity, and a future-forward ethos — SOCIIETY is building a private world you can wear.
         </p>
 
         <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginTop: '3rem', marginBottom: '1rem', color: '#FFD700' }}>
@@ -56,7 +56,7 @@ export default function About() {
           display: 'inline-block',
           transition: 'all 0.3s ease'
         }}>
-          Request Access — If You’re Ready
+          Request Access — If You&apos;re Ready
         </a>
       </div>
     </div>
