@@ -5,7 +5,7 @@ export default function Blueprint() {
   const [input, setInput] = useState('');
   const [access, setAccess] = useState(false);
   const [error, setError] = useState('');
-  const staticCode = 'Society-Vault-2025';
+  const staticCode = 'SociietyVault2025';
 
   const handleSubmit = (e) => {
     e.preventDefault();
